@@ -1,0 +1,11 @@
+.venv/
+__pycache__/
+.ipynb_checkpoints/
+
+*.pkl
+*.joblib
+*.parquet
+
+.vscode/
+
+.DS_Store
