@@ -1,11 +1,27 @@
+# Virtual Environment
 .venv/
-__pycache__/
-.ipynb_checkpoints/
+venv/
 
-*.pkl
-*.joblib
+# Dataset
+data/
+*.csv
 *.parquet
 
+# Jupyter
+.ipynb_checkpoints/
+
+# Python Cache
+__pycache__/
+*.pyc
+
+# Models
+models/
+*.pkl
+*.joblib
+
+# VS Code
 .vscode/
 
+# OS Files
 .DS_Store
+Thumbs.db
